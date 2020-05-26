@@ -11,7 +11,7 @@ the environment:
 
   
 
-1. the trained model and data: https://pan.baidu.com/s/1C1Ov7tKXPsp46anGQ0M9hQ  6ie4
+1. the trained model and data: https://github.com/ramonzhan/JPG-dataset.git
 
    download the data and model.
 
